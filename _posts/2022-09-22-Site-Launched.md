@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Site Launched " 
 date: 2022-09-22
 ---
